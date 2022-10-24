@@ -7,7 +7,7 @@ package cs250_assignment1;
  * @author jlvar
  *
  */
-public class VowelSearch {
+public class VowelSearch { 
 
 	public static void main(String[] args) {
 		String s = "Ephesians";
